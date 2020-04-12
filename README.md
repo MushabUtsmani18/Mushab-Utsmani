@@ -20,7 +20,7 @@ Merupakan aplikasi desktop sederhana untuk membantu toko/warung untuk menyetok p
 
 ## Fitur aplikasi :
 **Admin**
--	-	Cannot log in.
+-		Cannot log in.
 
 **User**
 -	Login dengan menggunakan username dan password sesuai User masing-masing.
