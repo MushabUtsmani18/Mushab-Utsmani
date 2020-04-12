@@ -27,4 +27,4 @@ Merupakan aplikasi desktop sederhana untuk membantu toko/warung untuk menyetok p
 - Bisa memesan barang, menambah pesanan, menambah jumlah
 
 ## Video menjalankan aplikasi :
-link Video 
+link Video https://youtu.be/ALk5-uj7dMI
