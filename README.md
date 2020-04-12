@@ -1,5 +1,28 @@
-# Grocerybox
+# Toko Grosir
+Merupakan aplikasi desktop sederhana untuk membantu toko/warung untuk menyetok persediaannya.
 
-Aplikasi ini dirancang untuk memudahkan toko/warung untuk menyetok persediaannya. Dengan menggunakan aplikasi ini maka pihak toko/warung tidak perlu lagi untuk pergi belanja tapi cukup dari aplikasi saja, sehingga lebih mudah, dan juga efisien.
+## Yang harus ter install di komputer anda :
+- Python 2.7 (https://www.python.org/downloads/)
+- Apache Cassandra (http://cassandra.apache.org/download/)
+- Cassandra Driver dengan mengetikkan ‘pip install cassandra driver’ pada CMD
+- GUI toolkit : Tkinter
 
-Aplikasi ini memiliki dua roles, yaitu User dan Admin. User yaitu pemilik toko/warung sedangkan Admin adalah pihak grosir sebagai penyetok. User disini dapat memesan barang dan menambahkan atau menghapus pesanan barang. Sedangkan Admin disini bertugas untuk menambahkan atau menghapus barang yang tersedia, melihat riwayat transaksi, dan menambahkan atau menghapus user.
+## Cara menjalankan aplikasi :
+1. Clone/download repository ini
+2. Jalankan Cassandra Server sebagai ‘cassandra.bat -f’ dengan CMD run as administrator dari directory bin. Jangan ditutup, biarkan terus berjalan
+3. Kemudian, buka CMD lainnya, buka directory tempat penyimpanan Cassandra. Untuk menjalankan cqlsh dengan mengetikkan ‘cqlsh’
+4. Buka IDLE (Python GUI)
+5. Open project dengan nama file ‘’
+6. Run module
+7. Hasil run akan menampilkan desktop app Toko Grosir
+8. Login sesuai kebutuhan, sebagai Admin ataupun logged in as a User.
+
+## Fitur aplikasi :
+**Admin**
+-	Login menggunakan username ‘admin’ dan password ‘12345’.
+
+**User**
+-	Logged in as a User.
+
+## Video menjalankan aplikasi :
+link Video  https://youtu.be/2prKjj5r-js 
