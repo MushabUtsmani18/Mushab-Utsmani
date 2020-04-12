@@ -25,4 +25,4 @@ Merupakan aplikasi desktop sederhana untuk membantu toko/warung untuk menyetok p
 -	Logged in as a User.
 
 ## Video menjalankan aplikasi :
-link Video  https://youtu.be/2prKjj5r-js 
+link Video 
